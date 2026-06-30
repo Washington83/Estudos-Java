@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class App {
-    static void main(String[] args) {
+    static void main(String[] args)  {
         ArrayList<Integer> numeros = new ArrayList<Integer>();
         numeros.add(50);
         numeros.add(10);
